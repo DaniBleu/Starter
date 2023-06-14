@@ -1,0 +1,17 @@
+{
+  "name": "biginning",
+  "version": "1.0.0",
+  "description": "ici on developpera une Api ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
